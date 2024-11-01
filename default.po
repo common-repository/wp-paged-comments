@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 偶爱偶家\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-25 10:06+0800\n"
+"PO-Revision-Date: 2008-12-25 10:06+0800\n"
+"Last-Translator: 偶爱偶家 <blog.2i2j.com@gmail.com>\n"
+"Language-Team: 偶爱偶家 <blog.2i2j.com@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:/SVN/wp-paged-comments\n"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:267
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:336
+msgid "WP Paged Comments Option"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:267
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:336
+msgid "WP Paged Comments"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:297
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:363
+msgid "Options saved"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:302
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:368
+msgid "resetted to default options!"
+msgstr ""
+
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:375
+#, php-format
+msgid "Thanks for using this plugin! If it works and you are satisfied with the results, isn't it worth at least one dollar? <a href=\"%s\" target=\"_blank\">Donations</a> help me to continue support and development of this <i>free</i> software! <a href=\"%s\" target=\"_blank\">Sure, no problem!</a>"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:311
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:384
+msgid "Edit Posts of Paged Comments"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:315
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:389
+msgid "Select Posts of Paged Comments"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:321
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:395
+msgid "Edit Exclude Posts ID  Paged Comments(separate by comma)"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:324
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:398
+msgid "Edit Comments Orderby"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:328
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:403
+msgid "Select orderby of comments"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:334
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:409
+msgid "Edit Exclude Posts ID Comments Orderby(separate by comma)"
+msgstr ""
+
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:412
+msgid "Edit Comments Default Page"
+msgstr ""
+
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:417
+msgid "The default page is either \"first\" (page 1), \"last\", or \"auto\" (determined by the comment ordering value). When comment ordering is set to ascending (ASC) the default comment page loaded is page 1 (showing the earliest comments). When comment ordering is set to descending (DESC) the default comment page is the last page (showing the latest comments). To override this behaviour set the value below to either \"first\" or \"last\"."
+msgstr ""
+
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:420
+msgid "Edit Comments Show all Ordering"
+msgstr ""
+
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:425
+msgid "Determines how comments are ordered when loaded on a single page. The default ascending (\"ASC\") order means comments will be ordered with the earliest comment displayed first. \"DESC\" reverses this order."
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:338
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:428
+msgid "Edit Comments per Page"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:343
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:433
+msgid "Input number of comments per page(leave empty or input zero to show all comments)"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:346
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:436
+msgid "Edit Max Pages to Show"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:351
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:441
+msgid "Input number of max pages to show"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:354
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:444
+msgid "Edit Page CSS"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:358
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:448
+msgid "Use CSS only, HTML and PHP cannot be used."
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:361
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:451
+msgid "Configuration deal with deactivate"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:363
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:453
+msgid "Clean Configuration after deactivate:"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:366
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:456
+msgid "check box if you want to clean configuration after deactivate wp-paged-comments"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:369
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:459
+msgid "Update Options"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:370
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:460
+msgid "Do you really want to restore the default options?"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:370
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:460
+msgid "Reset Options"
+msgstr ""
+

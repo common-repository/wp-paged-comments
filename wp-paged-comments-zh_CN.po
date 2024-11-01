@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 偶爱偶家\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-25 08:52+0800\n"
+"PO-Revision-Date: 2008-12-25 09:56+0800\n"
+"Last-Translator: 偶爱偶家 <blog.2i2j.com@gmail.com>\n"
+"Language-Team: 偶爱偶家 <blog.2i2j.com@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:/SVN/wp-paged-comments\n"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:267
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:333
+msgid "WP Paged Comments Option"
+msgstr "WP Comments Paged Option"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:267
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:333
+msgid "WP Paged Comments"
+msgstr "WP Paged Comments"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:297
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:360
+msgid "Options saved"
+msgstr "选项已经保存"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:302
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:365
+msgid "resetted to default options!"
+msgstr "重置选项"
+
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:372
+#, php-format
+msgid "Thanks for using this plugin! If it works and you are satisfied with the results, isn't it worth at least one dollar? <a href=\"%s\" target=\"_blank\">Donations</a> help me to continue support and development of this <i>free</i> software! <a href=\"%s\" target=\"_blank\">Sure, no problem!</a>"
+msgstr ""
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:311
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:381
+msgid "Edit Posts of Paged Comments"
+msgstr "编辑需要评论分页的文章"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:315
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:385
+msgid "Select Posts of Paged Comments"
+msgstr "选择评论需要分页的文章"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:321
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:391
+msgid "Edit Exclude Posts ID  Paged Comments(separate by comma)"
+msgstr "编辑排除的文章ID ( 用,分隔 )"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:324
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:394
+msgid "Edit Comments Orderby"
+msgstr "编辑评论的排序"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:328
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:398
+msgid "Select orderby of comments"
+msgstr "选择分页评论的排列顺序"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:334
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:404
+msgid "Edit Exclude Posts ID Comments Orderby(separate by comma)"
+msgstr "编辑排除文章的ID ( 用,分隔 )"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:338
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:407
+msgid "Edit Comments Default Page"
+msgstr "编辑默认显示的分页"
+
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:412
+msgid "The default page is either \"first\" (page 1), \"last\", or \"auto\" (determined by the comment ordering value). When comment ordering is set to ascending (ASC) the default comment page loaded is page 1 (showing the earliest comments). When comment ordering is set to descending (DESC) the default comment page is the last page (showing the latest comments). To override this behaviour set the value below to either \"first\" or \"last\"."
+msgstr "默认的显示页面, \"first\"(第一页), \"last\"(最后一页), 或者是 \"auto\"(自动)"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:324
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:415
+msgid "Edit Comments Show all Ordering"
+msgstr "编辑显示所有评论的排序"
+
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:420
+msgid "Determines how comments are ordered when loaded on a single page. The default ascending (\"ASC\") order means comments will be ordered with the earliest comment displayed first. \"DESC\" reverses this order."
+msgstr "如何显示全部的评论, 默认是正序(\"ASC\")."
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:338
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:423
+msgid "Edit Comments per Page"
+msgstr "编辑每页需要显示的评论条数"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:343
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:428
+msgid "Input number of comments per page(leave empty or input zero to show all comments)"
+msgstr "输入每页需要显示的评论条数(留空或者零则显示全部评论)"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:346
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:431
+msgid "Edit Max Pages to Show"
+msgstr "编辑最多显示页数"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:351
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:436
+msgid "Input number of max pages to show"
+msgstr "输入最多显示页数"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:354
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:439
+msgid "Edit Page CSS"
+msgstr "编辑分页CSS"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:358
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:443
+msgid "Use CSS only, HTML and PHP cannot be used."
+msgstr "只能使用css."
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:361
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:446
+msgid "Configuration deal with deactivate"
+msgstr "禁用插件时处理配置"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:363
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:448
+msgid "Clean Configuration after deactivate:"
+msgstr "禁用插件时清除配置"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:366
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:451
+msgid "check box if you want to clean configuration after deactivate wp-paged-comments"
+msgstr "如果你需要在禁用插件后清理配置请在选择框中打勾"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:369
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:454
+msgid "Update Options"
+msgstr "更新选项"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:370
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:455
+msgid "Do you really want to restore the default options?"
+msgstr "您真的需要重置选项吗?"
+
+# D:/usr/Apache/www/w23/wp-content/plugins/wp-comments-paged/wp-paged-comments.php:370
+#: D:/SVN/wp-paged-comments/wp-paged-comments.php:455
+msgid "Reset Options"
+msgstr "重置选项"
+
